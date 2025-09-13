@@ -103,7 +103,7 @@ curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 ![](./Images/nodejs.png)
 
 ```sh
-sudo apt-get install -y nodej
+sudo apt-get install -y nodejs
 ```
 
 ![](./Images/node.png)
@@ -207,7 +207,7 @@ Source Code Management
 
 Choose → Git
 
-Enter your GitHub repo URL (e.g., <https://github.com/yourname/java-ci-app.git>)
+Enter your GitHub repo URL (e.g., <https://github.com/yourname/nodejs-app.git>)
 
 ![](./Images/config-2.png)
 
